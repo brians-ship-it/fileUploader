@@ -1,0 +1,27 @@
+
+mat-card {
+    width: 65%;
+    margin: auto;
+}
+
+mat-card-title {
+    text-align: center;
+}
+
+button {
+    margin: .2rem;
+    color: red;
+}
+
+.container {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.container .button-row {
+    flex: 1 1 auto;
+}
+
+.bar {
+    display: true;
+}
